@@ -1,6 +1,6 @@
 # Minimal Bridgetown Repo with Ruby-only Pages
 
-**[DEMO SITE](https://minimal-bridgetown-ruby-site.onrender.com/)**
+[![Demo Site](https://img.shields.io/badge/Demo%20Site-darkgreen?style=for-the-badge&logo=safari)](https://minimal-bridgetown-ruby-site.onrender.com/) &nbsp; [![Ruby Powered](https://img.shields.io/badge/Ruby%20Powered-darkred?style=for-the-badge&logo=ruby)](https://www.bridgetownrb.com)
 
 No `.html`, `.md`, `.liquid`, `.erb`, etc. Only pure `.rb` files for everything.
 
