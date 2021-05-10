@@ -1,3 +1,3 @@
 {
-  title: "Exclusively Ruby Bridgetown"
+  title: "Exclusively Ruby Bridgetown Demo"
 }
