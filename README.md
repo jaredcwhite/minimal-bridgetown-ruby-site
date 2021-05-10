@@ -8,6 +8,8 @@ Is this the way you should build a website? Probably not! But as a fun experimen
 
 Requires the **resource** content engine configured and latest release of [Bridgetown](https://www.bridgetownrb.com) v0.21 or higher.
 
+Design tokens provided by [Shoelace](https://shoelace.style).
+
 ## Installation
 
 Requires Ruby 2.5 or higher (Ruby 2.7 or 3.0 recommended).

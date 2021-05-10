@@ -42,7 +42,6 @@ CSS
       <title>#{site.metadata.title}</title>
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.39/dist/themes/base.css">
       <style>#{styles}</style>
-      <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.39/dist/shoelace.js"></script>
     </head>
     <body>
       <header>
