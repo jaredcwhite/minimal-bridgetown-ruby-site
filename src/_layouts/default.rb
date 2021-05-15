@@ -1,9 +1,4 @@
 logo = site.resources.find { |resource| resource.data.slug == "logo" }
-unless logo.output
-  # FIXME: should be able to transform a resource even when it's not configured for output...
-  logo.transformer.final_ext
-  logo.transformer.process!
-end
 
 styles = <<~CSS
   body {
