@@ -6,9 +6,9 @@ No `.html`, `.md`, `.liquid`, `.erb`, etc. Only pure `.rb` files for everything.
 
 Is this the way you should build a website? Probably not! But as a fun experiment, it's pretty rad.
 
-Requires the **resource** content engine configured and latest release of [Bridgetown](https://www.bridgetownrb.com) v0.21 or higher.
+➡ [Read a longer description of this repo on RUBY3.dev](https://www.ruby3.dev/jamstack-frameworks/2021/05/11/teaching-or-learning-ruby-try-bridgetown/)
 
-Design tokens provided by [Shoelace](https://shoelace.style).
+Requires the **resource** content engine configured and latest release of [Bridgetown](https://www.bridgetownrb.com) v0.21 or higher. Design tokens provided by [Shoelace](https://shoelace.style).
 
 ## Installation
 
