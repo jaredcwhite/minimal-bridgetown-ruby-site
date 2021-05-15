@@ -1,6 +1,6 @@
 ###ruby
 front_matter do
-  config({output: false })
+  config({ output: false })
 end
 ###
 
